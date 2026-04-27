@@ -1,6 +1,9 @@
-Hello World!
-this is a new line.Append operation taking place!Append operation taking place!
+I started writing to the file.
+this is a new line. i wrote just now.
 Append operation taking place!
 First line 
-Seocnd line 
+Second line 
 Third line
+one more lines 
+today 2nd line 
+Third line time
