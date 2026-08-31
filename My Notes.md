@@ -53,3 +53,5 @@ i like mango juice. my friend like apple juice -- here if we count all the words
 but if we observe the unique words then total willbe 7 words -- each unique words treated as vocabulary
 
 my agend is convert to text of paragraph---sentences-- each single words
+
+practicals are created in jypter notebooks
