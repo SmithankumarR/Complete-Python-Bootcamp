@@ -23,3 +23,10 @@ step 6. BERT --- transformers
 frameworks to be understand
 machinelearning ---NLTK,learning space
 deeplearning --- Tensorflow/pytorch
+
+Practial usecases of NLP
+gmail text correction,
+automated responses to message
+google translator
+
+hugging face--- have alot of models to solve the text classification, text to vedio, question answer, summerization
